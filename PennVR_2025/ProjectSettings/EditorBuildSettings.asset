@@ -42,14 +42,26 @@ EditorBuildSettings:
     path: Assets/STUDENT_Scenes/Archive/In Class 07 Book in Hand etc.unity
     guid: 7eab1e2afa210c342bf2286d8805fc27
   - enabled: 1
-    path: Assets/STUDENT_Scenes/BOH_Scene_Ext.unity
+    path: Assets/STUDENT_Scenes/BOH_Scene_04.unity
+    guid: 684323edeb0ab9842a1fbe322c7c623a
+  - enabled: 1
+    path: Assets/STUDENT_Scenes/BOH_Scene_Ext_Morning.unity
     guid: 163b53a9f447ca841937365c4c5767aa
   - enabled: 1
     path: Assets/STUDENT_Scenes/BOH_Scene_03.unity
     guid: bf8de199c376f2e48aa6bb183015f821
-  - enabled: 0
+  - enabled: 1
+    path: Assets/STUDENT_Scenes/BOH_Scene_Ext_Sunset.unity
+    guid: 6e3247788e9482f498e917d0801f7da6
+  - enabled: 1
     path: Assets/STUDENT_Scenes/BOH_Scene_02.unity
     guid: ba031ae92352ae342bc39b9ac453e25b
+  - enabled: 1
+    path: Assets/STUDENT_Scenes/BOH_Scene_Ext_Night.unity
+    guid: 61c1692d8b03c4848baed463f756e57a
+  - enabled: 1
+    path: Assets/STUDENT_Scenes/BOH_Scene_01.unity
+    guid: f1748adbd836b594681ba16eeca39cc2
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8ce81e0bf68ac3e4abd42d74b53a395e, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 52eaa7aad8898ee4c8264272118be8eb, type: 2}
