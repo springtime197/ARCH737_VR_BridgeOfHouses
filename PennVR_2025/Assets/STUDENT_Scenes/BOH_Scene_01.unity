@@ -24,7 +24,7 @@ RenderSettings:
   m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
   m_AmbientIntensity: 1
-  m_AmbientMode: 0
+  m_AmbientMode: 1
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
   m_SkyboxMaterial: {fileID: 2100000, guid: af9327cc2f6f343298f114507c4090f0, type: 2}
   m_HaloStrength: 0.5
@@ -322,6 +322,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1157854269}
     m_Modifications:
+    - target: {fileID: -8738656950649443788, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
       propertyPath: m_LocalPosition.x
       value: -7.55
@@ -362,9 +366,133 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 32.443
       objectReference: {fileID: 0}
+    - target: {fileID: -8539573853386585879, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7276163276937292293, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6122235270510933470, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6064368610669362189, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4759838892401236475, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4083347267878400969, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3992041767299640228, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3856954855306648747, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3105228869819295121, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3056183043167720884, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2617508442509016267, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2186286609132606798, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2079332263812742149, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1927451490768245817, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1563445099440423599, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1055097059082755835, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -854604301353772308, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -625260886704432289, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -509341291396183935, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 163807865229427466, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
       propertyPath: m_Name
       value: Christmas Light (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 940650405490460795, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1273674859080537940, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2068479538338376470, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2972800095425415912, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4203132308530594557, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4278293427022366515, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4286168739466076301, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4449619136030214092, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5102773041748914860, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9062147223845403583, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4300,7 +4428,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9805d4533e6144a4db09b51bae6ddf72, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 21.665
+      value: 21.837
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9805d4533e6144a4db09b51bae6ddf72, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4353,6 +4481,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 9805d4533e6144a4db09b51bae6ddf72, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 990839573481059442, guid: 9805d4533e6144a4db09b51bae6ddf72, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1784666113194708747, guid: 9805d4533e6144a4db09b51bae6ddf72, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -4889,6 +5021,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Christmas Light
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5196,6 +5332,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
       propertyPath: m_Name
       value: Christmas Light (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b9b0cf6becd344d6cac1465791303427, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
