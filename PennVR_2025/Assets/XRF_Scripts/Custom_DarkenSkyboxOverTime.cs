@@ -6,7 +6,7 @@ using UnityEngine;
 public class Custom_DarkenSkyboxOverTime : MonoBehaviour
 {
 
-    public int HowFastToDarken = 2;
+    public float HowFastToDarken = 2.0f;
     public float startingDarkness = 1.23f;
     public float endingDarkness = 0.1f;
 
@@ -27,7 +27,7 @@ public class Custom_DarkenSkyboxOverTime : MonoBehaviour
 
 
         float startExposure = theSkybox.GetFloat("_Exposure");
-        Debug.Log("Current Skybox Exposure: " + startExposure);
+        //Debug.Log("Current Skybox Exposure: " + startExposure);
 
 
 

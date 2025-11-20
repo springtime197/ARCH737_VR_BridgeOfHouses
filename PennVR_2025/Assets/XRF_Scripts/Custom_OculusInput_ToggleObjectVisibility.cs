@@ -36,6 +36,31 @@ public class Custom_OculusInput_ToggleObjectVisibility : MonoBehaviour
     void Update()
     {
         checkForOculusInput();
+
+
+
+
+        if(Input.GetKeyDown(KeyCode.U))
+        {
+            Debug.Log("fake trigger click button");
+            TriggerClick();
+        }
+        if(Input.GetKeyUp(KeyCode.U))
+        {
+            Debug.Log("fake trigger un click button");
+            TriggerUnClick();
+        }
+        if(Input.GetKeyDown(KeyCode.I))
+        {
+            Debug.Log("fake grip click button");
+            GripClick();
+        }
+        if(Input.GetKeyUp(KeyCode.I))
+        {
+            Debug.Log("fake grip un click button");
+            GripUnClick();
+        }
+
     }
 
 
