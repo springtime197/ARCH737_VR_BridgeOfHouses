@@ -48,6 +48,14 @@ public class XRF_RaycastInteractions_CameraMouse : MonoBehaviour
 
     void Update()
     {
+        if(raycastCamera.activeSelf == false)
+        {
+            pointerPrefab.SetActive(false);
+            feetIcon.SetActive(false);
+            return;
+        }
+
+
         if (camType == ClickType.CanvasMouseClick)
         {
             myRay = raycastCamera.GetComponent<Camera>().ScreenPointToRay(Input.mousePosition);
