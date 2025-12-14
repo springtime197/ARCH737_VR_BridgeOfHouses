@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: grey_concrete_03_diffuse
+  m_Name: nyb117
   m_Shader: {fileID: 4800000, guid: cec6a606652c97448ac24048e61af588, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -44,7 +44,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: ee8697bf5ddecaa42a047a41166f6827, type: 3}
+        m_Texture: {fileID: 2800000, guid: b220b99ecaf2846489aa9576d4bd4bb4, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
