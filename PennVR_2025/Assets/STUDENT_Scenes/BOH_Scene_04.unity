@@ -16053,7 +16053,7 @@ MonoBehaviour:
   isGrabbable: 0
   handGrab: 0
   theAudioSource: {fileID: 1159406997}
-  theAudioClip: {fileID: 8300000, guid: 3364c6849152a2948ae95d953ea95168, type: 3}
+  theAudioClip: {fileID: 8300000, guid: 85d72afa166d89c4694ece02f6926d3e, type: 3}
   thingToMove: {fileID: 0}
   transformPositionToMoveTo: {fileID: 0}
   EventToCall:
@@ -24467,7 +24467,7 @@ GameObject:
   - component: {fileID: 6799379670640778866}
   - component: {fileID: 6799379670640778867}
   m_Layer: 0
-  m_Name: Text Messages Interactive
+  m_Name: Text Message Interactive
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26803,8 +26803,8 @@ MonoBehaviour:
   originalPos: {x: 0, y: 0, z: 0}
   isGrabbable: 0
   handGrab: 0
-  theAudioSource: {fileID: 1159406997}
-  theAudioClip: {fileID: 8300000, guid: 3364c6849152a2948ae95d953ea95168, type: 3}
+  theAudioSource: {fileID: 361760030}
+  theAudioClip: {fileID: 8300000, guid: c225c94a6cb595340a2018c9436df5af, type: 3}
   thingToMove: {fileID: 0}
   transformPositionToMoveTo: {fileID: 0}
   EventToCall:
