@@ -127,7 +127,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 0.96674734, b: 0.68553454, a: 1}
-    - _EmissionColor: {r: 1, g: 0.9805556, b: 0.86477983, a: 1}
+    - _EmissionColor: {r: 2, g: 0.9942642, b: 0.31446528, a: 1}
     - _GlowColor: {r: 1, g: 1, b: 1, a: 1}
     - _KeyboardPosition: {r: 0, g: 0, b: 0, a: 0}
     - _KeyboardRotation: {r: 0, g: 0, b: 0, a: 0}
