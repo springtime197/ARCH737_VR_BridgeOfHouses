@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Mesh34_Samsung_65_Class_QLED
+  m_Name: TV screen
   m_Shader: {fileID: 4800000, guid: cec6a606652c97448ac24048e61af588, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
