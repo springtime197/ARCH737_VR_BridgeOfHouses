@@ -6148,7 +6148,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -10663,6 +10663,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: cf7bbe8cc9d4adc4c85e0553a1a87dbb, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2070195561}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: cf7bbe8cc9d4adc4c85e0553a1a87dbb, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2070195562}
   m_SourcePrefab: {fileID: 100100000, guid: cf7bbe8cc9d4adc4c85e0553a1a87dbb, type: 3}
 --- !u!1 &2070195555 stripped
 GameObject:
@@ -10735,6 +10738,42 @@ MonoBehaviour:
   handGrab: 0
   theAudioSource: {fileID: 0}
   theAudioClip: {fileID: 0}
+  thingToMove: {fileID: 0}
+  transformPositionToMoveTo: {fileID: 0}
+  EventToCall:
+    m_PersistentCalls:
+      m_Calls: []
+  thingToChange: {fileID: 0}
+  newParentObject: {fileID: 0}
+--- !u!114 &2070195562
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2070195555}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9d18d7b5cc9e724a83799b131e0d713, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HighlightMaterial: {fileID: 670014953}
+  myType: 6
+  ObjectWithAnimation: {fileID: 0}
+  isSelected: 0
+  isTeleporter: 0
+  SceneToLoad: 
+  NumberOfThingsToTurnON: 1
+  NumberOfThingsToTurnOFF: 1
+  StartOFFClickON:
+  - {fileID: 0}
+  StartONClickOFF:
+  - {fileID: 0}
+  originalPos: {x: 0, y: 0, z: 0}
+  isGrabbable: 0
+  handGrab: 0
+  theAudioSource: {fileID: 944637052}
+  theAudioClip: {fileID: 8300000, guid: 365ef855d8c5b9143af166d191d3b09e, type: 3}
   thingToMove: {fileID: 0}
   transformPositionToMoveTo: {fileID: 0}
   EventToCall:
