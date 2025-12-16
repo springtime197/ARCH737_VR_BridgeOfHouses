@@ -9342,7 +9342,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -127.991, y: 18.93, z: 42.695}
-  m_LocalScale: {x: 0.35388, y: 0.42595997, z: 0.23728143}
+  m_LocalScale: {x: 0.35388, y: 0.42595997, z: 0.21011509}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -9366,11 +9366,12 @@ MonoBehaviour:
   isTeleporter: 0
   SceneToLoad: 
   NumberOfThingsToTurnON: 1
-  NumberOfThingsToTurnOFF: 1
+  NumberOfThingsToTurnOFF: 2
   StartOFFClickON:
   - {fileID: 0}
   StartONClickOFF:
   - {fileID: 1973193483}
+  - {fileID: 1950901382}
   originalPos: {x: 0, y: 0, z: 0}
   isGrabbable: 0
   handGrab: 0

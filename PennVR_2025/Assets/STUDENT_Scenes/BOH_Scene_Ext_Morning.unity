@@ -3200,7 +3200,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 1.143, y: 1.179, z: -6.009}
-  m_LocalScale: {x: 0.35388, y: 0.42596, z: 0.22037874}
+  m_LocalScale: {x: 0.35388, y: 0.42596, z: 0.1992356}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1542247273}
@@ -3224,11 +3224,12 @@ MonoBehaviour:
   isTeleporter: 0
   SceneToLoad: BOH_Scene_03
   NumberOfThingsToTurnON: 1
-  NumberOfThingsToTurnOFF: 1
+  NumberOfThingsToTurnOFF: 2
   StartOFFClickON:
   - {fileID: 0}
   StartONClickOFF:
   - {fileID: 808010647}
+  - {fileID: 116469953}
   originalPos: {x: 0, y: 0, z: 0}
   isGrabbable: 0
   handGrab: 0
