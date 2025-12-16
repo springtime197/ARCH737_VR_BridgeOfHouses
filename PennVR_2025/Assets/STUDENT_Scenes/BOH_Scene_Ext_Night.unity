@@ -6830,7 +6830,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 79.401825, y: 0.90247536}
+  m_AnchoredPosition: {x: 79.40567, y: 0.90247536}
   m_SizeDelta: {x: 20, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1766513556
@@ -7025,11 +7025,12 @@ MonoBehaviour:
   isTeleporter: 0
   SceneToLoad: BOH_Scene_01
   NumberOfThingsToTurnON: 1
-  NumberOfThingsToTurnOFF: 1
+  NumberOfThingsToTurnOFF: 2
   StartOFFClickON:
   - {fileID: 0}
   StartONClickOFF:
   - {fileID: 1810978476}
+  - {fileID: 1766513554}
   originalPos: {x: 0, y: 0, z: 0}
   isGrabbable: 0
   handGrab: 0
